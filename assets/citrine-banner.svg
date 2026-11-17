@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Citrine Mobilité</title>
+  <desc id="desc">La technologie au service d'une mobilité plus intelligente.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1720"/>
+      <stop offset="0.58" stop-color="#123d46"/>
+      <stop offset="1" stop-color="#176b68"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f3b64b"/>
+      <stop offset="1" stop-color="#8de0c2"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#84dec1" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#84dec1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="520" rx="34" fill="url(#bg)"/>
+  <circle cx="1270" cy="200" r="330" fill="url(#glow)"/>
+  <g fill="none" stroke="#d7f4e9" stroke-opacity=".12" stroke-width="2">
+    <path d="M980 520c100-140 130-250 265-292s232-18 355-142"/>
+    <path d="M1050 520c106-138 163-204 280-241s190-37 270-101"/>
+    <path d="M1125 520c109-116 178-174 284-203s144-40 191-75"/>
+  </g>
+  <path d="M1015 425c125-111 172-226 300-250 87-17 145 10 227-59" fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 16"/>
+  <circle cx="1015" cy="425" r="9" fill="#f3b64b"/>
+  <circle cx="1542" cy="116" r="9" fill="#8de0c2"/>
+  <g transform="translate(112 106)">
+    <rect x="0" y="0" width="58" height="58" rx="17" fill="#f3b64b"/>
+    <path d="M17 37c7-16 17-22 25-22M17 43c11-10 19-14 29-14" fill="none" stroke="#10232a" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="18" cy="39" r="4" fill="#10232a"/>
+    <circle cx="44" cy="17" r="4" fill="#10232a"/>
+    <text x="80" y="43" fill="#f6fbf8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" letter-spacing="1">CITRINE</text>
+    <text x="0" y="170" fill="#f6fbf8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="750" letter-spacing="-2">Mobilité,</text>
+    <text x="0" y="246" fill="#9ce3c8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="750" letter-spacing="-2">décisions, impact.</text>
+    <text x="4" y="302" fill="#d3e6e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="400">La technologie au service d’une mobilité plus intelligente.</text>
+  </g>
+  <text x="1450" y="465" fill="#e2f2ec" fill-opacity=".72" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="3">CITRINE MOBILITÉ</text>
+</svg>
